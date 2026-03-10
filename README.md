@@ -57,8 +57,8 @@ Design and define requirements for a **Digital Loan Application System (DLAS)** 
 | # | Deliverable | Description | Tools Used |
 |---|---|---|---|
 | 1 | [📄 Business Requirements Document (BRD)](./NorthBridge_BRD_Ruchitha.docx) | Full 12-section BRD covering objectives, scope, stakeholders, AS-IS/TO-BE, functional & non-functional requirements, risks, and sign-off | MS Word |
-| 2 | [🗺️ AS-IS Process Map](./02-Process-Maps/NorthBridge_ASIS_ProcessMap.png) | Current state swim lane diagram showing manual process with 5 documented pain points | Draw.io |
-| 3 | [🗺️ TO-BE Process Map](./02-Process-Maps/NorthBridge_TOBE_ProcessMap.png) | Future state diagram showing automated digital workflow with pain point resolutions | Draw.io |
+| 2 | [🗺️ AS-IS Process Map](./AS-IS%20Process%20Diagram.drawio.png) | Current state swim lane diagram showing manual process with 5 documented pain points | Draw.io |
+| 3 | [🗺️ TO-BE Process Map](./TO-BE%20Process%20Diagram.drawio.png) | Future state diagram showing automated digital workflow with pain point resolutions | Draw.io |
 | 4 | [📊 User Stories + Acceptance Criteria](./NorthBridge_UserStories.xlsx) | 6 user stories with 24 acceptance criteria using MoSCoW prioritization | Excel |
 | 5 | [🧪 UAT Test Plan](./NorthBridge_UAT_TestPlan.xlsx) | 16 test cases with pre-conditions, test steps, expected results, defect log, and sign-off sheet | Excel |
 
@@ -69,12 +69,12 @@ Design and define requirements for a **Digital Loan Application System (DLAS)** 
 ### AS-IS — Current State (Manual Process)
 > Shows the painful 10-day manual loan application process with 5 documented pain points
 
-![AS-IS Process Map](./02-Process-Maps/NorthBridge_ASIS_ProcessMap.png)
+![AS-IS Process Map](./AS-IS%20Process%20Diagram.drawio.png)
 
 ### TO-BE — Future State (Digital System)
 > Shows how DLAS eliminates every pain point through automation and real-time processing
 
-![TO-BE Process Map](./02-Process-Maps/NorthBridge_TOBE_ProcessMap.png)
+![TO-BE Process Map](./TO-BE%20Process%20Diagram.drawio.png)
 
 ---
 
