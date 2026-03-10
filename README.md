@@ -56,7 +56,7 @@ Design and define requirements for a **Digital Loan Application System (DLAS)** 
 
 | # | Deliverable | Description | Tools Used |
 |---|---|---|---|
-| 1 | [📄 Business Requirements Document (BRD)](./01-BRD/NorthBridge_BRD_Ruchitha.docx) | Full 12-section BRD covering objectives, scope, stakeholders, AS-IS/TO-BE, functional & non-functional requirements, risks, and sign-off | MS Word |
+| 1 | [📄 Business Requirements Document (BRD)](./NorthBridge_BRD_Ruchitha.docx) | Full 12-section BRD covering objectives, scope, stakeholders, AS-IS/TO-BE, functional & non-functional requirements, risks, and sign-off | MS Word |
 | 2 | [🗺️ AS-IS Process Map](./02-Process-Maps/NorthBridge_ASIS_ProcessMap.png) | Current state swim lane diagram showing manual process with 5 documented pain points | Draw.io |
 | 3 | [🗺️ TO-BE Process Map](./02-Process-Maps/NorthBridge_TOBE_ProcessMap.png) | Future state diagram showing automated digital workflow with pain point resolutions | Draw.io |
 | 4 | [📊 User Stories + Acceptance Criteria](./03-User-Stories/NorthBridge_UserStories.xlsx) | 6 user stories with 24 acceptance criteria using MoSCoW prioritization | Excel |
